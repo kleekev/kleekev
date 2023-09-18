@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Currently looking for full time jobs. Contact me at kleekev@seas.upenn.edu
 ## Projects
-I'm currently working on my website called [AniTrack](https://github.com/kleekev/anime-site/tree/main) which uses the MERN stack
+I'm currently working on a website called [AniTrack](https://github.com/kleekev/anime-site/tree/main) which uses the MERN stack. AniTrack allows users to register an account to track and favorite their animes.
 ## Languages
 Java, Javascript, SQL, MongoDB, Python, C++
 ## Fameworks & Tools
