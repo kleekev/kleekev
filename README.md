@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+# Currently looking for full time jobs. Contact me at kleekev@seas.upenn.edu
+## Projects
+I'm currently working on my website called [AniTrack](https://github.com/kleekev/anime-site/tree/main) which uses the MERN stack
+## Languages
+Java, Javascript, SQL, MongoDB, Python, C++
+## Fameworks & Tools
+Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS
+## Operating Systems
+Windows, MacOS, Linux
 <!--
 **kleekev/kleekev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
