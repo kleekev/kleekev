@@ -5,7 +5,7 @@ I'm currently working on a website called [AniTrack](https://github.com/kleekev/
 ## Languages
 Java, Javascript, SQL, MongoDB, Python, C++
 ## Fameworks & Tools
-Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS
+Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS Django, Tailwind
 ## Operating Systems
 Windows, MacOS, Linux
 <!--
