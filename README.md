@@ -7,7 +7,7 @@ Java, Javascript, SQL, MongoDB, Python, C++
 ## Frameworks & Tools
 Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS Django, Tailwind
 ## Data Science Frameworks & Tools
-Matplotlib, Pandas, NumPy, SciKit, Seaborn, Apache Spark
+Matplotlib, Pandas, NumPy, SciKit, Seaborn, Apache Spark, Pytorch
 ## Operating Systems
 Windows, MacOS, Linux
 <!--
