@@ -1,11 +1,11 @@
 ### Hi there 👋
 # Currently looking for full time jobs. Contact me at kleekev@seas.upenn.edu
 ## Projects
-I'm currently working on a mobile application called PA Votes. The application is built using React Native
+I'm currently working on a chrome extension called Lazy Reads. It is being developed using ReactJS and Typescript.
 ## Languages
-Java, Javascript, SQL, MongoDB, Python, C, C++
+Java, Javascript, Typescript, SQL, MongoDB, Python, C, C++
 ## Frameworks & Tools
-Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS Django, Tailwind, Docker, React Native
+Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS Django, Tailwind, Docker, React Native, Webpack
 ## Data Science Frameworks & Tools
 Matplotlib, Pandas, NumPy, SciKit, Seaborn, Apache Spark, Pytorch
 ## Operating Systems
