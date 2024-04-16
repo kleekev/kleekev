@@ -3,9 +3,9 @@
 ## Projects
 I'm currently working on a chrome extension called [Lazy Reader](https://github.com/kamatro1/Lazy-Reader). It is being developed using ReactJS and Typescript.
 ## Languages
-Java, Javascript, Typescript, SQL, MongoDB, Python, C, C++
+Java, Javascript, Typescript, SQL, MongoDB, Python, C, C++, R
 ## Frameworks & Tools
-Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS Django, Tailwind, Docker, React Native, Webpack
+Visual Studio Code, Git, Node.js, ReactJS, Intellij, Codio, QT Creator, AWS, Django, Tailwind, Docker, React Native, Webpack
 ## Data Science Frameworks & Tools
 Matplotlib, Pandas, NumPy, SciKit, Seaborn, Apache Spark, Pytorch
 ## Operating Systems
