@@ -1,7 +1,5 @@
 ### Hi there 👋
 # Currently looking for full time jobs. Contact me at kleekev@seas.upenn.edu
-## Projects
-I'm currently working on a chrome extension called [Lazy Reader](https://github.com/kamatro1/Lazy-Reader). It is being developed using ReactJS and Typescript.
 ## Languages
 Java, Javascript, Typescript, SQL, MongoDB, Python, C, C++, R
 ## Frameworks & Tools
