@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Currently looking for full time jobs. Contact me at kleekev@seas.upenn.edu
+# Currently working at Amazon. Contact me at leekecy@gmail.com
 ## Languages
 Java, Javascript, Typescript, SQL, MongoDB, Python, C, C++
 ## Frameworks & Tools
